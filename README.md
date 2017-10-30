@@ -6,7 +6,7 @@ products we find ourselfs in the position of re-inventing the same wheel all ove
 This project aims at solving the issue with datepickers and calendars in modern JS front-end world.
 
 Features:
-  use native browser picker
-  cross-framework support (can be used with VueJS, React...)
-  expose an easy API for great dev experience
+  1. use native browser picker
+  2. cross-framework support (can be used with VueJS, React...)
+  3. expose an easy API for great dev experience
   
