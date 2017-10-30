@@ -15,3 +15,7 @@ Issues:
  2. Styling is limited because there aren't a lot of css selectors exposed
 
 Inspiration: (here ill gather all modern datepickers and try to map their functionality)
+
+
+Links:
+[Browser Support](https://caniuse.com/#feat=input-datetime)
