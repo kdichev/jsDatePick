@@ -10,3 +10,5 @@ Features:
   2. cross-framework support (can be used with VueJS, React...)
   3. expose an easy API for great dev experience
   
+Issues:
+ 1. Browser support for <input type=date /> is very limited
